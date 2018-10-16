@@ -1,2 +1,3 @@
 wp_content/uploads
 node_modules
+secret.pem
